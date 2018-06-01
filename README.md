@@ -1,2 +1,2 @@
-# Coffee_noteBook
-我的笔记本，主要用来记录一些学习笔记
+# 我的学习笔记在哪里？
+[我的gitbook主页导航](https://legacy.gitbook.com/@coffeecat007)
